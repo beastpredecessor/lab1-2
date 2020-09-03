@@ -10,4 +10,4 @@ elif unit =="F" or unit == "f":
  print(f"{temperature}° in Fahrenheit is equivalent to {C}° Celsius.")
 
 else:
-  print(f"Invalid unit ({unit})).")
+  print(f"Invalid unit({unit}).")
