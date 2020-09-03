@@ -1,5 +1,5 @@
-unit = input("Enter unit in F/f or C/c: ")
 temperature = input("Enter temperature: ")
+unit = input("Enter unit in F/f or C/c: ")
 
 if unit =="C" or unit == "c":
   F=(float(temperature)*1.8)+32;
